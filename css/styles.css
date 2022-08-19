@@ -1,4 +1,30 @@
 body {
+  background: #ffffff;
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
+}
+.h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+}
+.link {
+  color: teal;
+}
+
+.link:hover {
+  color: tomato;
+}
+.lorem-p {
+  font-weight: 400;
+  font-size: 14px;
+}
+.h2 {
+  font-weight: 700;
+  font-size: 36px;
+}
+.h4 {
+  font-weight: 700;
+  font-size: 14px;
 }
