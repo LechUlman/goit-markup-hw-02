@@ -29,7 +29,38 @@ body {
 .navigate-list {
   list-style: none;
 }
-
+.contact-link-style {
+  font-weight: 500;
+  font-size: 14px;
+  color: var(gray);
+}
+.top-section-text{
+color: var(white)
+font-weight: 900;
+font-size: 44px;
+line-height: 1.365;
+}
+.section-top{
+  background-color: var(--darkgrey);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 200px 0;}
+.section-top-btn{
+  color: var(white);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  background-color: var(blue);
+  border-style: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  cursor: pointer;
+  width: 200px;
+  height: 50px;
+}
 .button {
   background-color: $background-card;
   border-width: 0;
