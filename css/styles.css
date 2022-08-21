@@ -44,7 +44,7 @@ body {
   font-size: 14px;
   line-height: 1.172;
 }
-.nav-list {
+.navigate-list {
   list-style: none;
 }
 .contact-link-style {
@@ -105,7 +105,7 @@ body {
   border-radius: 4px;
 }
 /* portfolio projects */
-.projects-list {
+.project-list {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
@@ -113,13 +113,13 @@ body {
   margin-bottom: 94px;
   width: 1170px;
 }
-.projects-title {
+.project-title {
   color: var(--notblack);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
 }
-.projects-subtitle {
+.project-description {
   color: var(--grey);
   font-size: 16px;
   line-height: 1.875;
@@ -167,13 +167,13 @@ body {
   list-style: none;
   display: flex;
 }
-.team-card-name {
+.team-name {
   color: #212121;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
 }
-.team-card-profession {
+.team-card {
   color: var(--grey);
   font-size: 16px;
   line-height: 1.19;
